@@ -1,6 +1,6 @@
 package com.cholab.botaku;
 
-import com.cholab.botaku.Domain.Room.Message;
+import com.cholab.botaku.Chat.DTO.Message;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

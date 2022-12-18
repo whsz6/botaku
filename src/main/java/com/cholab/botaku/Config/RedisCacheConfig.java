@@ -1,7 +1,7 @@
 package com.cholab.botaku.Config;
 
-import com.cholab.botaku.Domain.Room.Message;
-import com.cholab.botaku.Domain.Room.Room;
+import com.cholab.botaku.Chat.DTO.Message;
+import com.cholab.botaku.Chat.DTO.Room;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.connection.ReactiveRedisConnectionFactory;

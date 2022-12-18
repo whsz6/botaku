@@ -1,8 +1,8 @@
 package com.cholab.botaku.Config.Json;
 
-import com.cholab.botaku.Domain.Game.Library.Card.Card;
-import com.cholab.botaku.Utill.Json.CardDeserializer;
-import com.cholab.botaku.Utill.Json.CardSerializer;
+import com.cholab.botaku.Common.Card.Card;
+import com.cholab.botaku.Common.Util.Json.CardDeserializer;
+import com.cholab.botaku.Common.Util.Json.CardSerializer;
 import com.fasterxml.jackson.core.Version;
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.databind.Module;
